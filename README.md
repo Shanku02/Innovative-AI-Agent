@@ -14,7 +14,7 @@ Welcome to the Anticipatory Household AI project! This project aims to develop a
 To set up the Anticipatory Household AI project, follow these steps:
 
 1. Clone the repository to your local machine:
-   https://git.cs.bham.ac.uk/projects-2022-23/sxv264.git
+   https://github.com/Shanku02/Innovative-AI-Agent.git
 
 2. Guide for running the project:
     Prerequisites Install the below libraries and tools
