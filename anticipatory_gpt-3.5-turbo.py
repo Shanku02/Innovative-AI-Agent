@@ -1,7 +1,7 @@
 import openai
 import tkinter as tk
 from tkinter import ttk
-openai.api_key = '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'   #opeAI API key
+openai.api_key = 'YOUR API KEY'   #openAI API key
 import datetime
 
 
